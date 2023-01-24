@@ -1,53 +1,41 @@
-![Igor Borges](https://github-readme-stats.vercel.app/api?username=seshborges&show_icons=true&theme=dark)
-![Igor Borges](https://github-readme-stats.vercel.app/api/top-langs/?username=seshborges&theme=dark)
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
-<div>
-	<div>
-		<h1 style="font-size: 23px; padding-bottom: 10px;">Technology</h1>
-		<div style="font-size: 50px; color: #79FE96; ">
-			<svg viewBox="0 0 128 128">
-            <g fill="#61DAFB"><circle cx="64" cy="64" r="11.4"></circle><path d="M107.3 45.2c-2.2-.8-4.5-1.6-6.9-2.3.6-2.4 1.1-4.8 1.5-7.1 2.1-13.2-.2-22.5-6.6-26.1-1.9-1.1-4-1.6-6.4-1.6-7 0-15.9 5.2-24.9 13.9-9-8.7-17.9-13.9-24.9-13.9-2.4 0-4.5.5-6.4 1.6-6.4 3.7-8.7 13-6.6 26.1.4 2.3.9 4.7 1.5 7.1-2.4.7-4.7 1.4-6.9 2.3C8.2 50 1.4 56.6 1.4 64s6.9 14 19.3 18.8c2.2.8 4.5 1.6 6.9 2.3-.6 2.4-1.1 4.8-1.5 7.1-2.1 13.2.2 22.5 6.6 26.1 1.9 1.1 4 1.6 6.4 1.6 7.1 0 16-5.2 24.9-13.9 9 8.7 17.9 13.9 24.9 13.9 2.4 0 4.5-.5 6.4-1.6 6.4-3.7 8.7-13 6.6-26.1-.4-2.3-.9-4.7-1.5-7.1 2.4-.7 4.7-1.4 6.9-2.3 12.5-4.8 19.3-11.4 19.3-18.8s-6.8-14-19.3-18.8zM92.5 14.7c4.1 2.4 5.5 9.8 3.8 20.3-.3 2.1-.8 4.3-1.4 6.6-5.2-1.2-10.7-2-16.5-2.5-3.4-4.8-6.9-9.1-10.4-13 7.4-7.3 14.9-12.3 21-12.3 1.3 0 2.5.3 3.5.9zM81.3 74c-1.8 3.2-3.9 6.4-6.1 9.6-3.7.3-7.4.4-11.2.4-3.9 0-7.6-.1-11.2-.4-2.2-3.2-4.2-6.4-6-9.6-1.9-3.3-3.7-6.7-5.3-10 1.6-3.3 3.4-6.7 5.3-10 1.8-3.2 3.9-6.4 6.1-9.6 3.7-.3 7.4-.4 11.2-.4 3.9 0 7.6.1 11.2.4 2.2 3.2 4.2 6.4 6 9.6 1.9 3.3 3.7 6.7 5.3 10-1.7 3.3-3.4 6.6-5.3 10zm8.3-3.3c1.5 3.5 2.7 6.9 3.8 10.3-3.4.8-7 1.4-10.8 1.9 1.2-1.9 2.5-3.9 3.6-6 1.2-2.1 2.3-4.2 3.4-6.2zM64 97.8c-2.4-2.6-4.7-5.4-6.9-8.3 2.3.1 4.6.2 6.9.2 2.3 0 4.6-.1 6.9-.2-2.2 2.9-4.5 5.7-6.9 8.3zm-18.6-15c-3.8-.5-7.4-1.1-10.8-1.9 1.1-3.3 2.3-6.8 3.8-10.3 1.1 2 2.2 4.1 3.4 6.1 1.2 2.2 2.4 4.1 3.6 6.1zm-7-25.5c-1.5-3.5-2.7-6.9-3.8-10.3 3.4-.8 7-1.4 10.8-1.9-1.2 1.9-2.5 3.9-3.6 6-1.2 2.1-2.3 4.2-3.4 6.2zM64 30.2c2.4 2.6 4.7 5.4 6.9 8.3-2.3-.1-4.6-.2-6.9-.2-2.3 0-4.6.1-6.9.2 2.2-2.9 4.5-5.7 6.9-8.3zm22.2 21l-3.6-6c3.8.5 7.4 1.1 10.8 1.9-1.1 3.3-2.3 6.8-3.8 10.3-1.1-2.1-2.2-4.2-3.4-6.2zM31.7 35c-1.7-10.5-.3-17.9 3.8-20.3 1-.6 2.2-.9 3.5-.9 6 0 13.5 4.9 21 12.3-3.5 3.8-7 8.2-10.4 13-5.8.5-11.3 1.4-16.5 2.5-.6-2.3-1-4.5-1.4-6.6zM7 64c0-4.7 5.7-9.7 15.7-13.4 2-.8 4.2-1.5 6.4-2.1 1.6 5 3.6 10.3 6 15.6-2.4 5.3-4.5 10.5-6 15.5C15.3 75.6 7 69.6 7 64zm28.5 49.3c-4.1-2.4-5.5-9.8-3.8-20.3.3-2.1.8-4.3 1.4-6.6 5.2 1.2 10.7 2 16.5 2.5 3.4 4.8 6.9 9.1 10.4 13-7.4 7.3-14.9 12.3-21 12.3-1.3 0-2.5-.3-3.5-.9zM96.3 93c1.7 10.5.3 17.9-3.8 20.3-1 .6-2.2.9-3.5.9-6 0-13.5-4.9-21-12.3 3.5-3.8 7-8.2 10.4-13 5.8-.5 11.3-1.4 16.5-2.5.6 2.3 1 4.5 1.4 6.6zm9-15.6c-2 .8-4.2 1.5-6.4 2.1-1.6-5-3.6-10.3-6-15.6 2.4-5.3 4.5-10.5 6-15.5 13.8 4 22.1 10 22.1 15.6 0 4.7-5.8 9.7-15.7 13.4z"></path></g>
-            <i class="devicon-python-plain"></i>
-            <i class="devicon-java-plain"></i>
-            <i class="devicon-nodejs-plain"></i>
-			<i class="devicon-nextjs-original"></i>
-			<i class="devicon-ruby-plain"></i>
-			<i alt="React Js" class="devicon-react-original"></i>
-            <i class="devicon-javascript-plain"></i>
-			<i class="devicon-typescript-plain"></i>
-            <i class="devicon-vuejs-plain"></i>
-            <i class="devicon-docker-plain"></i>
-            <i class="devicon-socketio-original"></i>
-            <i class="devicon-threejs-original"></i>
-		</div>
-	</div>
-	<!--  -->
-	<div>
-		<h1 style="font-size: 23px; padding-bottom: 10px;">Software</h1>
-		<div style="font-size: 50px; color: #79FE96; ">
-			<i alt="After Effects" class="devicon-aftereffects-plain"></i>
-			<i alt="Photoshop" class="devicon-photoshop-plain"></i>   
-			<i alt="Premiere" class="devicon-premierepro-plain"></i> 
-            <i class="devicon-figma-plain"></i>
-			<i class="devicon-unrealengine-original"></i>
-		</div>
-	</div>
-	<!--  -->
-	<div>
-		<h1 style="font-size: 23px; padding-bottom: 10px;">About me</h1>
-		<ul style="font-size: 14px;">
-			<li>👦 I've been programming since I was 14</li>
-			<li>📖 I started programming by making changes to games with Lua and SQlite</li>
-			<li>🎯 My focus is mostly backend and machine learning</li>
-			<li>🎸 I play a lead guitar</li>
-			<li>🖼️ I'm a graphic designer and motion designer</li>
-			<li>🎛️ I'm also a great audio engineer</li>
-		<ul>
-	</div>
+<div align="left">
+	<h2>Technology Stack</h2>
+	<img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFDD53"/>
+	<img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=black"/>
+	<img src="https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=D91404"/>
+	<img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=83CD29"/>
+	<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F0DB4F"/>
+	<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+	<img src="https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+	<img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white"/>
+	<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+	<img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+	<img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=239120"/>
+	<img src="https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=239120"/>
+	<img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699"/>
 </div>
-<br/>
 
+<div align="left">
+	<h2>My GitHub Stats</h2>
+	<img src="https://github-readme-stats.vercel.app/api?username=seshborges&show_icons=true&theme=dark"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seshborges&theme=dark"/>
+</div>
+
+<div align="left">
+	<h2>About Me</h2>
+	<ul align="left">
+		<li>👦 I've been programming since I was 14</li>
+		<li>📖 I started programming by making changes to games with Lua and SQlite</li>
+		<li>🎯 My focus is mostly backend and machine learning</li>
+		<li>🎸 I play a lead guitar</li>
+		<li>🖼️ I'm a graphic designer and motion designer</li>
+		<li>🎛️ I'm also a great audio engineer</li>
+		<li>🚘 I like jdm cars</li>
+	<ul>
+</div>
+		
+<div align="center" >
+	<img width="200px" src="https://i.pinimg.com/564x/81/47/09/81470976ffb99a19f8d4caeaba436a6b.jpg"/>
+</div>
