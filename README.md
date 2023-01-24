@@ -1,3 +1,5 @@
+<img width="100%" src="https://i.ibb.co/sJtw68z/Sem-T-tulo-1.png" />
+
 <div align="left">
 	<h2>Technology Stack</h2>
 	<img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=white"/>
