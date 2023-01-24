@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/sJtw68z/Sem-T-tulo-1.png" />
+<img width="100%" src="https://iili.io/HlpzHG9.png" />
 
 <div align="left">
 	<h2>Technology Stack</h2>
