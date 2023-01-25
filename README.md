@@ -52,8 +52,4 @@
 		<li>🎛️ I'm also a great audio engineer</li>
 		<li>🚘 I like jdm cars</li>
 	<ul>
-</div><br/>
-		
-<div align="left" >
-	<img width="200px" src="https://i.pinimg.com/564x/81/47/09/81470976ffb99a19f8d4caeaba436a6b.jpg"/>
 </div>
